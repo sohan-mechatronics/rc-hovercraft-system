@@ -4,6 +4,7 @@ A Remote-Controlled (RC) Hovercraft Prototype developed to demonstrate the princ
 
 This project combines mechanical design, embedded electronics, propulsion systems, and remote-control technology to create a functional hovercraft capable of moving with minimal surface friction.
 
+---
 
 ## 📖 Project Overview
 
@@ -18,6 +19,7 @@ The project provides practical exposure to:
 * RC Communication Systems
 * Mechanical Design and Prototyping
 
+---
 
 ## ✨ Key Features
 
@@ -29,6 +31,7 @@ The project provides practical exposure to:
 * 🪶 Lightweight hovercraft structure
 * 🔋 Portable battery-powered operation
 
+---
 
 ## 🛠️ Components Used
 
@@ -44,6 +47,7 @@ The project provides practical exposure to:
 | Foam Board Chassis                | Lightweight structure   |
 | Connectors & Wiring               | Electrical connections  |
 
+---
 
 ## ⚙️ Working Principle
 
@@ -59,9 +63,11 @@ A second BLDC motor drives a propeller to generate forward thrust and move the h
 
 A servo motor controls the rudder angle. Steering commands are transmitted wirelessly through the RC transmitter and receiver system.
 
+---
 
 ## 🔄 System Architecture
 
+```text
 RC Transmitter
         │
         ▼
@@ -78,7 +84,9 @@ Motor       Motor
       ▼
  Servo Motor
  (Steering)
+```
 
+---
 
 ## 🎯 Applications
 
@@ -89,6 +97,7 @@ Motor       Motor
 * STEM Learning Platforms
 * Engineering Research Activities
 
+---
 
 ## 📚 Learning Outcomes
 
@@ -103,17 +112,23 @@ Through this project, the following concepts were explored:
 * Mechanical prototyping techniques
 * Wireless motion control
 
+---
 
 ## 📸 Project Gallery
 
 ### Hovercraft Prototype
 
+```md
 ![Hovercraft Prototype](assets/hovercraft.jpg)
+```
 
 ### System Block Diagram
 
+```md
 ![Block Diagram](assets/block-diagram.png)
+```
 
+---
 
 ## 🔮 Future Improvements
 
@@ -123,6 +138,8 @@ Through this project, the following concepts were explored:
 * GPS-based positioning
 * AI-assisted navigation
 * Improved hover efficiency
+
+---
 
 ## 👨‍💻 Author
 
@@ -140,5 +157,7 @@ Through this project, the following concepts were explored:
 * Embedded Systems
 * Artificial Intelligence
 * Mechatronics Engineering
+
+---
 
 ⭐ If you found this project interesting, consider giving the repository a star.
