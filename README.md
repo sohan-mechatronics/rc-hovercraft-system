@@ -159,7 +159,6 @@ Through this project, the following concepts were explored:
 * Mechatronics Engineering
 
 ---
----
 
 ## 🌐 Connect With Me
 
